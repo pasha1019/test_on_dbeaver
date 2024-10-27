@@ -19,3 +19,11 @@ insert into seats values
 ('SU9','10F','Economy'),
 ('SU9','20F','Economy')
 ;
+insert into seats values
+('CR2','1A','Business'),
+('CR2','1B','Business'),
+('CR2','10A','Economy'),
+('CR2','10B','Economy'),
+('CR2','10F','Economy'),
+('CR2','20F','Economy')
+;
